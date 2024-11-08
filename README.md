@@ -1,6 +1,7 @@
 # Text Editor Starter Code
 
 ## Description 
+This is a text editor that runs in theb browser both online and offline. It is a single page application. In the bowser you can write anything you'd like, return to new lines and delete text. Enjoy!
 
 ## User Story
 - AS A developer
