@@ -35,3 +35,6 @@
 - THEN I should have proper build scripts for a webpack application
 
 ## Resources 
+- Used in install.js: https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeinstallprompt_event 
+- used in install.js: https://developer.mozilla.org/en-US/docs/Web/API/Window/appinstalled_event 
+- Used in install.js: https://www.w3schools.com/jsref/prop_style_display.asp 
