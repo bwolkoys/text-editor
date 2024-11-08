@@ -39,3 +39,6 @@ This is a text editor that runs in theb browser both online and offline. It is a
 - Used in install.js: https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeinstallprompt_event 
 - used in install.js: https://developer.mozilla.org/en-US/docs/Web/API/Window/appinstalled_event 
 - Used in install.js: https://www.w3schools.com/jsref/prop_style_display.asp 
+
+## Remder Link:
+- https://text-editor-7xyk.onrender.com/ 
